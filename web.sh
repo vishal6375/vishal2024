@@ -1,2 +1,1 @@
-#!/bin/bash
-yum install httpd vim -y
+<h1> jenkins project by vishal rathor </h1>
